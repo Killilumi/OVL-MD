@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    async (1.39.0)
+    concurrent-ruby (1.2.3)
+    discordrb (3.4.2)
+      async (~> 1.30)
+      concurrent-ruby (~> 1.0)
+      discordrb-webhooks (~> 3.4.2)
+      ffi (~> 1.15)
+      multi_json (~> 1.15)
+      ruby-enum (~> 0.9)
+    discordrb-webhooks (3.4.2)
+    ffi (1.15.5)
+    multi_json (1.15.0)
+    ruby-enum (0.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  discordrb
+
+BUNDLED WITH
+   2.4.22
